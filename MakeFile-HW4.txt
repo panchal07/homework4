@@ -1,0 +1,18 @@
+
+# To implement a simple job scheduler that executes non-interactive jobs (e.g., jobs that 
+do not have direct user interaction, jobs that can run in the background)
+
+CC = gcc
+## How to Compile:
+gcc -Wall queue_helper.c queue_driver.c
+
+##Reference
+https://github.com/eolatham/job-scheduler/blob/master/job_scheduler.c
+
+queue.tar
+
+
+
+Github-
+
+
